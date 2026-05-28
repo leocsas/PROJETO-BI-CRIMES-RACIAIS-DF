@@ -31,6 +31,10 @@ Analisar dados públicos por meio de dashboards interativos e análises temporai
 
 <img width="1062" height="494" alt="StarScheme" src="https://github.com/user-attachments/assets/4683a98e-dbb4-4cd7-a22e-44163aaa0859" />
 
+### Linkedin
+
+https://www.linkedin.com/posts/leonardo-soares-743958228_powerbi-businessintelligence-datawarehouse-ugcPost-7465873969636601856-G4GV/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADkX-yMBK0cK05_QaNYOOPZec69YXEUtqBE
+
 ## Fonte dos Dados
 
 https://www.dados.df.gov.br/dataset/crimes-de-racismo-e-injuria-racial-no-distrito-federal
